@@ -2,8 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-%231A192B?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-%231d799a?style=for-the-badge&logo=tailwindcss
-  " alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%231d799a?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Framer%20Motion-%230055FF?style=for-the-badge&logo=framer" alt="Framer Motion" />
   <img src="https://img.shields.io/badge/Jotai-000000?style=for-the-badge&logo=jotai&logoColor=white" alt="Jotai" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
