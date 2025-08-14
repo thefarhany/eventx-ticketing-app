@@ -37,31 +37,31 @@ Desain dibuat interaktif dengan animasi menggunakan **Framer Motion** dan stylin
 
 Ikuti langkah berikut untuk menjalankan proyek ini di lokal:
 
-### 1. Clone repository
+#### 1. Clone repository
 
 ```bash
 git clone https://github.com/thefarhany/eventx-ticketing-app.git
 ```
 
-### 2. Masuk ke folder proyek
+#### 2. Masuk ke folder proyek
 
 ```bash
 cd eventx-ticketing-app
 ```
 
-### 3. Install dependencies
+#### 3. Install dependencies
 
 ```bash
 npm install
 ```
 
-### 4. Jalankan proyek di mode development
+#### 4. Jalankan proyek di mode development
 
 ```bash
 npm run dev
 ```
 
-### 5. Build untuk production
+#### 5. Build untuk production
 
 ```bash
 npm run build
